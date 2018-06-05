@@ -1,2 +1,3 @@
 # Arduino
-about how use arduino to operate some easy sensor
+about how to operate some easy sensor with Arduino。
+## FIRST、Serial
